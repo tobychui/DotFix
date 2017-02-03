@@ -1,4 +1,5 @@
 # DotFix
+<img scr="https://raw.githubusercontent.com/tobychui/DotFix/master/preview.png">
 Fixing the problem of no respond while pressing the dot key on keyboard but Shift+dot is working for unknown reason.
 
 #Installation
