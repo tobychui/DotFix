@@ -1,0 +1,11 @@
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\bin\Debug\Dotfix.exe.config
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\bin\Debug\Dotfix.exe
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\bin\Debug\Dotfix.pdb
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\bin\Debug\Dotfix.xml
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\obj\Debug\Dotfix.vbprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\obj\Debug\Dotfix.Form1.resources
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\obj\Debug\Dotfix.Resources.resources
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\obj\Debug\Dotfix.vbproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\obj\Debug\Dotfix.exe
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\obj\Debug\Dotfix.xml
+C:\Users\Toby\Desktop\Project\Dotfix\Dotfix\obj\Debug\Dotfix.pdb
